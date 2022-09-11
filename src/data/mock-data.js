@@ -566,3 +566,5 @@ export const locations = [
     rating: 4.5,
   },
 ];
+
+

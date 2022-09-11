@@ -69,3 +69,5 @@ export const carouselImage = {
   width: '100%',
   borderRadius: 3,
 };
+
+

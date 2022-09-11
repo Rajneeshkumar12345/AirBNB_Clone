@@ -129,3 +129,5 @@ const CarouselCard = ({ location }) => {
 };
 
 export default CarouselCard;
+
+

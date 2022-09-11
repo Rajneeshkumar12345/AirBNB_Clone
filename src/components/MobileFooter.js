@@ -48,3 +48,5 @@ const MobileFooter = () => {
 };
 
 export default MobileFooter;
+
+

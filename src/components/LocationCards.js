@@ -25,3 +25,5 @@ const LocationCards = () => {
 };
 
 export default LocationCards;
+
+
